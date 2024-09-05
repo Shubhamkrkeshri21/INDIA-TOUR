@@ -1,0 +1,1 @@
+India Tour is a web application where users can explore and select different places to visit across India. The project is built using React and allows users to view various destinations, get detailed information, and plan their trip based on preferences.
